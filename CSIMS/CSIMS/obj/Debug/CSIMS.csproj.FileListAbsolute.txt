@@ -1,0 +1,39 @@
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\bin\Debug\CSIMS.exe.config
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\bin\Debug\CSIMS.exe
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\bin\Debug\CSIMS.pdb
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.Form1.resources
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.exe
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.pdb
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.UserManage.resources
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.CategorieManage.resources
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.ItemManage.resources
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.CustomerManage.resources
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.OderManage.resources
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.AdminDash.resources
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.Stok_Manager.resources
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.CashierForm.resources
+C:\Users\Administrator\source\repos\CSIMS\CSIMS\obj\Debug\CSIMS.ReportForm.resources
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\bin\Debug\CSIMS.exe.config
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\bin\Debug\CSIMS.exe
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\bin\Debug\CSIMS.pdb
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.csproj.AssemblyReference.cache
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.csproj.SuggestedBindingRedirects.cache
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.AdminDash.resources
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.CashierForm.resources
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.CategorieManage.resources
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.CustomerManage.resources
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.Form1.resources
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.ItemManage.resources
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.ReportForm.resources
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.Stok_Manager.resources
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.OderManage.resources
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.Properties.Resources.resources
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.UserManage.resources
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.csproj.GenerateResource.cache
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.csproj.CoreCompileInputs.cache
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.exe
+E:\Vishual studio projects save files\repos\CSIMS\CSIMS\obj\Debug\CSIMS.pdb
